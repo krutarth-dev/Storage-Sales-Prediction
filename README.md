@@ -7,7 +7,7 @@ The project of Sales Prediction for storage entails the examination of a Kaggle 
 Accurately predicting future sales holds significant value for companies as it enables them to enhance their revenue and market share, as well as minimize costs related to inventory management and excess stock. Employing machine learning models, like the ones utilized in this project, can offer a competitive edge to retail businesses striving to maintain a leading position within the industry.
 
 
-##Project roadmap:
+## Project roadmap:
 
 ### Data exploration:
 
